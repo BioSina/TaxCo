@@ -1,5 +1,6 @@
 # TaxCo
-TaxCo - Correlation Analysis for Taxonomic Data
+#### TaxCo - Correlation Analysis for Taxonomic Data
+TaxCo computes correlations between taxonomic abundances and numeric metadata and presents the results in tabular and graphic form.
 
 ## Dependencies:
 [NetworkX](https://pypi.org/project/networkx/2.2/)
