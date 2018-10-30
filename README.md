@@ -1,7 +1,7 @@
 # TaxCo
 TaxCo - Correlation Analysis for Taxonomic Data
 
-'''
+
 usage: TaxCo.py [-h]
                 (-qiime <L2> <L3> <L4> <L5> <L6> | -mothur <tax.summary file> | -megan <L2> <L3> <L4> <L5> <L6>)
                 [-out <output directory>] [-pval <p-value>]
@@ -34,4 +34,4 @@ Input files (mutually exclusive):
                         Paths to MEGAN CSV files, sorted from L2 to L6.
                         Collapse tree to matching level and export the
                         summarized countsxs.
-'''
+
