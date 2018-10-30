@@ -33,5 +33,5 @@ Input files (mutually exclusive):
   -megan <L2> <L3> <L4> <L5> <L6>
                         Paths to MEGAN CSV files, sorted from L2 to L6.
                         Collapse tree to matching level and export the
-                        summarized countsxs.
+                        summarized counts.
 ```
