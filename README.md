@@ -6,6 +6,8 @@ TaxCo - Correlation Analysis for Taxonomic Data
 
 [matplotlib](https://matplotlib.org)
 
+## Usage:
+
 ```
 usage: TaxCo.py [-h]
                 (-qiime <L2> <L3> <L4> <L5> <L6> | -mothur <tax.summary file> | -megan <L2> <L3> <L4> <L5> <L6>)
