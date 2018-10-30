@@ -1,6 +1,11 @@
 # TaxCo
 TaxCo - Correlation Analysis for Taxonomic Data
 
+## Dependencies:
+[NetworkX](https://pypi.org/project/networkx/2.2/)
+
+[matplotlib](https://matplotlib.org)
+
 ```
 usage: TaxCo.py [-h]
                 (-qiime <L2> <L3> <L4> <L5> <L6> | -mothur <tax.summary file> | -megan <L2> <L3> <L4> <L5> <L6>)
